@@ -1,8 +1,6 @@
 {
   "products":[{
-    "_id": {
-      "$oid": "61d5317b2477db2b028907fa"
-    },
+    "_id": "61d5317b2477db2b028907fa",
     "product_name": "Raymond Wooden Sofa - Teak Finish",
     "product_image": "https://m.media-amazon.com/images/I/51dKbFb93SL._SX522_.jpg",
     "product_cost": 9000,
@@ -23,9 +21,7 @@
     ],
     "product_rating": 3.3
   },{
-    "_id": {
-      "$oid": "61d53d402477db2b028907fd"
-    },
+    "_id":"61d53d402477db2b028907fd",
     "product_name": "Dimora Queen Size Bed With Storage In Frosty ",
     "product_image": "https://m.media-amazon.com/images/I/61HcqU1ZFFL._SX522_.jpg",
     "product_cost": 40000,
@@ -47,9 +43,7 @@
     ],
     "product_rating": 4.3
   },{
-    "_id": {
-      "$oid": "61d53d792477db2b028907fe"
-    },
+    "_id": "61d53d792477db2b028907fe",
     "product_name": "Pearth Bed With Trundle In Orange Colour",
     "product_image": "https://m.media-amazon.com/images/I/51F9jtzjOeL._AC_.jpg",
     "product_cost": 50000,
@@ -71,9 +65,7 @@
     ],
     "product_rating": 4.1
   },{
-    "_id": {
-      "$oid": "61d53ee02477db2b028907ff"
-    },
+    "_id": "61d53ee02477db2b028907ff",
     "product_name": "Avian Solid Wood Sideboard in Spring ",
     "product_image": "https://m.media-amazon.com/images/I/61qwSPYueqL._SL1500_.jpg",
     "product_cost": 60000,
@@ -95,9 +87,7 @@
     ],
     "product_rating": 4.2
   },{
-    "_id": {
-      "$oid": "61d53f972477db2b02890800"
-    },
+    "_id": "61d53f972477db2b02890800",
     "product_name": "Sleepyhead Yolo – Modern Upholstered Sofa",
     "product_image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxttA_1vKv-H0WoTIUaplA3wDFuHKtFap9x6_MJ2t7RWrYhDZD75NQqmHUp9Gaw3B6KRpSOx9f6xcScQBTfr2kudPFbFyu&usqp=CAE",
     "product_cost": 100000,
@@ -119,9 +109,7 @@
     ],
     "product_rating": 4.2
   },{
-    "_id": {
-      "$oid": "61d53fab2477db2b02890801"
-    },
+    "_id": "61d53fab2477db2b02890801",
     "product_name": "Carden Desk in Euro Oak & Aqua Blue Colour",
     "product_image": "https://cdn.shopify.com/s/files/1/1043/4986/products/22_d1b1f481-b21d-4fda-89fa-5717ae246096_700x.jpg?v=1610452109",
     "product_cost": 20000,
@@ -143,9 +131,7 @@
     ],
     "product_rating": 3.3
   },{
-    "_id": {
-      "$oid": "61d53fdd2477db2b02890802"
-    },
+    "_id": "61d53fdd2477db2b02890802",
     "product_name": "Ladybug Rhs 6 Seater Sectional Sofa ",
     "product_image": "https://rukminim1.flixcart.com/image/416/416/ktyp8cw0/sofa-set/k/l/v/orange-jute-3-1-1-burano-orange-flipkart-perfect-homes-orange-original-imag76qmug9egkhg.jpeg?q=70",
     "product_cost": 500000,
@@ -167,9 +153,7 @@
     ],
     "product_rating": 5
   },{
-    "_id": {
-      "$oid": "61d540972477db2b02890803"
-    },
+    "_id": "61d540972477db2b02890803",
     "product_name": "Wow Craft-MultiPurpose Foldable and Portable ",
     "product_image": "https://m.media-amazon.com/images/I/518garHBOrL._SX300_SY300_QL70_FMwebp_.jpg",
     "product_cost": 20000,
@@ -191,9 +175,7 @@
     ],
     "product_rating": 5
   },{
-    "_id": {
-      "$oid": "61d540d72477db2b02890804"
-    },
+    "_id": "61d540d72477db2b02890804",
     "product_name": "Nivi Queen Bed With Storage In Blue Colour",
     "product_image": "https://m.media-amazon.com/images/I/41B7bnxMt+L.jpg",
     "product_cost": 35000,
